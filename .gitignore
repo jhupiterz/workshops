@@ -1,2 +1,4 @@
 .DS_Store
 auto-learn/
+mercury/
+.ipynb_checkpoints
