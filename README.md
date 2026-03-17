@@ -19,6 +19,8 @@ I recommend you start with the `Python basics` workshop, starting with slides. A
 
 Then move on to the `Challenge.ipynb`. This is a notebook I've pre-written to take you through the basic concepts mentionned in the slides. Try answering all the questions till the end. 
 
-Once you've finished the `Python basics` learning and practice material, you can dive into the `Data visualization` workshop, following the same workflow. the `Challenge.ipynb` notebook, can only be done 
+Once you've finished the `Python basics` learning and practice material, you can dive into the `Data visualization` workshop, following the same workflow. The `Challenge.ipynb` notebook can only be completed if you have access to the `exoplanet.csv` dataset so make sure to upload it into the JupyterLab workspace too.
+
+Have fun!
 
 
