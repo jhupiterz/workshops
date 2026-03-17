@@ -1,4 +1,4 @@
-# Introductory leanring material
+# Introductory learning material
 
 ## Learning material: slides
 
